@@ -1,5 +1,5 @@
 # Dockerfile for Tutorial2
-#GitHub and do a maven build it
+# GitHub and do a maven build it
 FROM emooti/tutorbase
 MAINTAINER Uta Kapp "uta.kapp@emooti.org"
 
